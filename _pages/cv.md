@@ -13,25 +13,25 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in biological concepts and critical thinking. Passionate about designing technology to help advance the future of medicine and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Biomedical Engineering*  
+  GPA: 3.3/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Sayville High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** N/A
+- **Programming:** Python  
+- **Tools:** N/A
 
 ---
 
@@ -49,22 +49,22 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[The Shed Resturant]**  
+  [May, 2023] - [August, 2025]  
+  - Collaborated with the kitchen staff to ensure accuracy of orders, minimizing order errors and complaints
+  - Delievered food to customers in a timely fashion 
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- [AP Scholar with Distinction], [College Board], [2023]  
+- [UCA All American Winner], [UCA Camp], [2023]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Captain of the Cornell Cheerleading team  
+- Volunteer for New York Sportscene Children's Foundation  
 
 ---
 
